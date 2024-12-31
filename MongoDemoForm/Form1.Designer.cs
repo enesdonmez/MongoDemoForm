@@ -92,7 +92,6 @@ partial class Form1
         label2.Size = new System.Drawing.Size(100, 23);
         label2.TabIndex = 5;
         label2.Text = "Bakiye";
-        label2.Click += label2_Click;
         // 
         // label3
         // 
