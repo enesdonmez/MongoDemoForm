@@ -9,12 +9,7 @@ public partial class Form1 : Form
     {
         InitializeComponent();
     }
-
-    private void label2_Click(object sender, EventArgs e)
-    {
-        throw new System.NotImplementedException();
-    }
-
+    
     CustomerOperations customerOperations = new CustomerOperations();
 
     private void BtnEkle_Click(object sender, EventArgs e)
